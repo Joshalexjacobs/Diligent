@@ -1,0 +1,8 @@
+# Untracked files:
+
+*.git
+properties.txt
+
+# Directories:
+Vigilant-Waffle/
+save/scenes/*.txt
